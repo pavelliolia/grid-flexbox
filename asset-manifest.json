@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/weak-unit-game/static/css/main.da47cba1.chunk.css",
+    "main.js": "/weak-unit-game/static/js/main.26fb7ceb.chunk.js",
+    "main.js.map": "/weak-unit-game/static/js/main.26fb7ceb.chunk.js.map",
+    "runtime-main.js": "/weak-unit-game/static/js/runtime-main.89613320.js",
+    "runtime-main.js.map": "/weak-unit-game/static/js/runtime-main.89613320.js.map",
+    "static/js/2.dad5d04d.chunk.js": "/weak-unit-game/static/js/2.dad5d04d.chunk.js",
+    "static/js/2.dad5d04d.chunk.js.map": "/weak-unit-game/static/js/2.dad5d04d.chunk.js.map",
+    "index.html": "/weak-unit-game/index.html",
+    "static/css/main.da47cba1.chunk.css.map": "/weak-unit-game/static/css/main.da47cba1.chunk.css.map",
+    "static/js/2.dad5d04d.chunk.js.LICENSE.txt": "/weak-unit-game/static/js/2.dad5d04d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89613320.js",
+    "static/js/2.dad5d04d.chunk.js",
+    "static/css/main.da47cba1.chunk.css",
+    "static/js/main.26fb7ceb.chunk.js"
+  ]
+}

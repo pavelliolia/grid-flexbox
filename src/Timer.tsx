@@ -44,7 +44,7 @@ export const Timer = () => {
   );
 
   return (
-    <Box display="flex">
+    <Box display="flex" mb={32}>
       <Box onClick={playPause}>
         <CountdownCircleTimer
           key={key}
